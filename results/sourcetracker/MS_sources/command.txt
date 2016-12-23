@@ -1,0 +1,1 @@
+/opt/R/3.1.0/lib64/R/bin/exec/R --slave --vanilla --args -i ../data/MS1_features.txt -m ../data/refined_MS_metadata.txt -o ../results/MS_sources
